@@ -1,0 +1,51 @@
+*{ /*aplicará a todo lo que sea html*/
+    margin: 0; /*margen*/
+    padding: 0;
+}
+
+html, body{
+    left: 0;
+    top: 0;
+    height: 100%; /*alto*/
+    width: 100%; /*ancho*/
+    background-color: lightblue;
+}
+.nav{
+    position: absolute;
+    height: 80%;
+    width: 40%;
+    margin-top: 1%;
+    margin-left: 5%;
+    
+}
+.borde{
+    border-radius: 15px;
+}
+.azul{
+    background: purple;
+}
+
+.red{
+    background: #50858B;
+}
+.color{
+    background: #62A8AC ;
+}
+
+.nav2{
+    position: absolute;
+    height: 80%;
+    width: 40%;
+    margin-top: 10%;
+    margin-left: 5%;
+    
+}
+
+.nav3{
+    position: absolute;
+    height: 80%;
+    width: 100%;
+    margin-top: -255%;
+    margin-left: 120%;
+    
+}
